@@ -18,17 +18,17 @@
 
 ## Installation
 
-To add `boar` to your project, include the following dependency in your `pubspec.yaml` file:
+To add `boar_locator` to your project, include the following dependency in your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  boar: ^latest_version
+  boar_locator: ^latest_version
 ```
 
 Then, import the library in your Dart code:
 
 ```dart
-import 'package:boar/boar.dart';
+import 'package:boar_locator/boar_locator.dart';
 ```
 
 ---
@@ -179,4 +179,4 @@ void main() async {
 
 ## Codecov
 
-![Codecov](https://codecov.io/gh/contributors-company/boar_locator/graphs/sunburst.svg?token=DITZJ9E9OM)
+![Codecov](https://codecov.io/gh/contributors-company/boar_locator/graphs/sunburst.svg?token=JWoK0eXo3f)

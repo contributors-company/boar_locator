@@ -144,11 +144,7 @@ class BoarLocator {
     }
 
     // Initialize the service and cache it
-    final instance = await asyncService();
-    _services[T] = instance;
-    return instance as T;
+    _services[T] = await asyncService();
+    return _services[T] as T;
   }
 }
-
-
-/// I`m God
