@@ -1,0 +1,33 @@
+name: boar_locator
+description: "Lightweight service locator for managing synchronous and asynchronous dependencies in Dart."
+version: 0.0.1
+
+homepage: https://www.contributors.info/repository/boar_locator
+
+repository: https://github.com/contributors-company/boar_locator
+
+issue_tracker: https://github.com/contributors-company/boar_locator/issues
+
+topics:
+  - service-locator
+  - dependency-management
+  - service-registration
+  - service-retrieval
+  - lazy-initialization
+
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
+
+environment:
+  sdk: '>=2.19.0 <4.0.0'
+
+dependencies:
+
+dev_dependencies:
+  test:
+  lints:
