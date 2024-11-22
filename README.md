@@ -18,17 +18,17 @@
 
 ## Installation
 
-To add `boar` to your project, include the following dependency in your `pubspec.yaml` file:
+To add `boar_locator` to your project, include the following dependency in your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  boar: ^latest_version
+  boar_locator: ^latest_version
 ```
 
 Then, import the library in your Dart code:
 
 ```dart
-import 'package:boar/boar.dart';
+import 'package:boar_locator/boar_locator.dart';
 ```
 
 ---
