@@ -43,6 +43,7 @@ void main() {
 
     final dbService = await locator.getAsync<DatabaseService>();
     expect(dbService, isNotNull);
+    expect(await locator.getAsync<DatabaseService>(), isNotNull);
   });
 
   // Тест на получение несуществующего синхронного сервиса (ошибка)

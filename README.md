@@ -179,4 +179,4 @@ void main() async {
 
 ## Codecov
 
-![Codecov](https://codecov.io/gh/contributors-company/boar_locator/graphs/sunburst.svg?token=DITZJ9E9OM)
+![Codecov](https://codecov.io/gh/contributors-company/boar_locator/graphs/sunburst.svg?token=JWoK0eXo3f)
