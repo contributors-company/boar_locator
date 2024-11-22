@@ -149,6 +149,3 @@ class BoarLocator {
     return instance as T;
   }
 }
-
-
-/// I`m God
